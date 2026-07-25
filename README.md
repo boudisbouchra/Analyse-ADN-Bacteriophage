@@ -6,7 +6,7 @@ Ce projet implémente un flux de travail reproductible en Python pour analyser d
 
 - **Nom du projet :** Analyse de la composition nucléotidique et du taux de GC dans des séquences génomiques
 - **Auteur :** Bouchra Boudis
-- **Date :** Juillet 2026
+- **Date :** Août 2026
 - **Origine de l'échantillon (Sample origin) :** Les séquences analysées proviennent de la base de données officielle de la **NCBI** (National Center for Biotechnology Information).
 - **Numéro d'accession NCBI :** `NC_000866`
 - **Logiciels & Versions :** Python 3 (Spyder), Pandas (Analyse de données), Git / GitHub (Version contrôle).
